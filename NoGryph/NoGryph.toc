@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: NoGryph
+## Notes: Removes gryphons from action bar
+## Author: xdpirate
+## Version: 1.0
+NoGryph.xml
+NoGryph.lua
